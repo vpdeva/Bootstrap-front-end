@@ -6,7 +6,7 @@ It is a responsive HTML template that is based on the CSS framework Bootstrap 3.
 Bootstap-front-end is based on a modular design, which allows it to be easily customized and built upon. 
 This documentation will guide you through installing the template and exploring the various components that are bundled with the template.
 
-##Installation
+## Installation
 
 Download the zip folder
 
